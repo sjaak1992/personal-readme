@@ -1,4 +1,4 @@
-![img_5.png](img_5.png)
+![profilebanner](profile_banner.png)
 <hr />
 
 # Welcome to my github ✨
