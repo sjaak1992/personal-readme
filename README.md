@@ -9,12 +9,17 @@ I like to help people by making apps that can improve peoples life (and look att
 Get in touch:
 - 📫 my journey: [Linkedin](www.linkedin.com/in/syakirah-algadri/)
 - 📝 my journey in one PDF:  [Resume](./Syakirah_CV_2021.pdf) 
-- 🌱 currently learning: React & SASS 
+- 🌱 learning: React & SASS  
+
 <hr />
 
-Check out my latest project ‍💻 : 
-> [Bookclub App](https://github.com/sjaak1992/novi-assignment)
+* 🧑‍🤝‍🧑👭 currently working on a group project:
+> [Donatello Crowdfunding App](https://github.com/Reinoptland/donatello-frontend)
 
+
+* ‍💻  check out my latest project  : 
+
+> [Bookclub App](https://github.com/sjaak1992/novi-assignment)
 
  
 
